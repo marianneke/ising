@@ -6,7 +6,7 @@ The implementation can be found [in this notebook](https://github.com/marianneke
 
 ## Summary of results
 
-The notebook contains code that
+The [notebook](https://github.com/marianneke/ising/blob/master/NIPS_Ising.ipynb) contains code that
 - Generates samples of Ising lattices with nearest-neighbor interaction under zero magnetization using MCMC
 - Generates samples that depart from an Ising model in the high-temperature limit, with the departure parameterized by a variable &tau;
 - Performs a hypothesis test on these samples using a statistic introduced in the paper, where the null hypothesis is that the sample is an Ising lattice in the high-temperature limit
