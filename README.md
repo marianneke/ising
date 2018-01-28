@@ -6,5 +6,10 @@ The implementation can be found [in this notebook](https://github.com/marianneke
 
 ## Summary of results
 
+The notebook contains code that
+- Generates samples of Ising lattices with nearest-neighbor interaction under zero magnetization using MCMC
+- Generates samples that depart from an Ising model in the high-temerature limit, with the departure parameterized by a variable $\tau$
+- Performs a hypothesis test on these samples using a statistic introduced in the paper, where the null hypothesis is that the sample is an Ising lattice in the high-temperature limit
+- Reproduces the result from the paper, where the percentage of rejections of the null hypothesis is plotted against $\tau$ (see plot below)
 
 <img src="images/percentage_null_hypothesis_rejections.png" alt="Percentage null hypothesis rejections"/>
