@@ -4,3 +4,7 @@ This is an implementation of the paper ["Concentration of Multilinear Functions 
 
 The implementation can be found [in this notebook](https://github.com/marianneke/ising/blob/master/NIPS_Ising.ipynb).
 
+## Summary of results
+
+
+<img src="images/percentage_null_hypothesis_rejections.png" alt="Percentage null hypothesis rejections"/>
